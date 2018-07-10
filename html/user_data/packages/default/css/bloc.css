@@ -1,0 +1,796 @@
+@charset "utf-8";
+
+/************************************************
+ ブロック用
+************************************************ */
+/*** 目次 ***
+
+▼ブロック共通
+リスト
+タイトル
+ヘッダー上、フッター下のブロックエリア
+
+▼各機能ブロックの指定
+-新着情報
+-現在のカゴの中
+-カテゴリ
+-ガイドリンク
+-ログイン（サイド用）
+-検索
+-カレンダー
+-おすすめ商品
+    *メインカラム用 1カラム時 [one_maincolumn]
+    *メインカラム用 2カラム時 [two_maincolumn_left]
+                              [two_maincolumn_right]
+    *メインカラム用 3カラム時 [three_maincolumn]
+    *サイドカラム用           [side_column]
+    *商品詳細のオススメ商品   [whobought_area]
+ */
+
+
+/* ==============================================
+ブロック共通
+/* ============================================= */
+/*#container .block_body {
+    background-color: #f0f;
+}*/
+.side_column {
+    margin:15px 0 0 0;
+    overflow-x: hidden; /* IE6 表示乱れ防止 */
+}
+.side_column .block_outer {
+    margin:10px 0;
+}
+.side_column .block_body,
+.main_column .block_body {
+    /*border: solid 1px #ccc;*/
+    padding:0 15px;
+    border-top: none;
+}
+.main_column .block_body_b {
+    border: solid 12px #ffFF00; /* 太枠用です */
+}
+.side_column .block_body .box {
+    border: solid 1px #ccc;
+    width: 145px;
+}
+
+/*.main_column .block_outer {
+    margin: 0px;
+    padding: 20px 0px 35px 0px;
+    background-color: #E6E3E0;
+    opacity:0.7;
+    width: 100%;
+    border-left: solid 15px #30303A;
+}
+
+.main_column .block_outer:hover {
+    background-color: #F3F3FA;
+    opacity:1;
+    border-left: solid 25px #F60;
+}*/
+
+.main_column .block_outer::before,
+.main_column .block_outer::after {
+	position: absolute;
+	z-index: -1;
+	display: block;
+	content: '';
+}
+
+.main_column .block_outer,
+.main_column .block_outer::before,
+.main_column .block_outer::after {
+	-webkit-transition: all .4s;
+	transition: all .4s;
+}
+
+
+.undercolumn .block_outer {
+    margin: 0px;
+    padding: 20px 0px 35px 0px;
+    background-color: #E6E3E0;
+    opacity:0.7;
+    width: 100%;
+    border-left: solid 15px #30303A;
+}
+
+.undercolumn .block_outer:hover {
+    background-color: #F3F3FA;
+    opacity:1;
+    border-left: solid 25px #F60;
+}
+
+.undercolumn .block_outer::before,
+.undercolumn .block_outer::after {
+	position: absolute;
+	z-index: -1;
+	display: block;
+	content: '';
+}
+
+.undercolumn .block_outer,
+.undercolumn .block_outer::before,
+.undercolumn .block_outer::after {
+	-webkit-transition: all .4s;
+	transition: all .4s;
+}
+
+/* リスト
+----------------------------------------------- */
+/* ログイン 検索条件 */
+#container .block_outer .block_body dl.formlist {
+    margin: 50px;
+    margin-bottom: 15px;
+    width: 100%;
+    text-align: center;
+    background-color: #EEE;
+}
+
+.top_login dl.formlist {
+    margin: 15px auto;
+    margin-bottom: 15px;
+    width: 500px;
+    text-align: center;
+}
+
+#container .block_outer .block_body dl.formlist dd {
+    margin-bottom: 15px;
+    float:left;
+    height: 80px;
+}
+
+.top_login dl.formlist dd {
+    margin: 5px auto 10px auto;
+    width: 100%;
+    text-align: center;
+}
+
+#container .block_outer .block_body dl.formlist dt {
+    /*margin-bottom: 3px;*/
+    background: url("../img/icon/ico_arrow_03.gif") no-repeat left;
+    font-size: 0.6em;
+    float:left;
+    width: 100px;
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.top_login dl.formlist dt {
+    margin: 1em auto 0px auto;
+    padding-bottom: 0.1em;
+    width: 500px;
+    text-align: left;
+    color: #AAA;
+    font-size: 0.9em;  
+}
+
+
+#container .block_outer .block_body dl.formlist span {
+    vertical-align: center;
+}
+
+
+/* タイトル
+----------------------------------------------- */
+/* タイトルの背景 オレンジ 吹き出しつき */
+#news_area h2, {
+    width:650px;
+    margin-bottom:4px;
+    padding: 9px 5px 20px 15px;
+    background: url('../img/background/bg_btn_bloc_02.gif') 0 0 no-repeat;
+}
+
+/* ==============================================
+▼ヘッダー上、フッター下のブロックエリア
+=============================================== */
+div#topcolumn {
+    margin: 0px;
+    clear: both;
+    background: url("../img/top_menu_background.gif") 0 0 repeat-x;
+    border-bottom: 1px solid #FFF;
+}
+div#bottomcolumn {
+    margin: 0px;
+    clear: both;
+}
+
+
+/* ***********************************************
+▼各機能ブロックの指定
+/*********************************************** */
+
+/* ===============================================
+▼新着情報
+=============================================== */
+/*.main_column .block_news {
+    margin-bottom: 20px;
+        width: 470px;
+        float: left;
+}*/
+
+#news_area .block_body {
+    padding:0 0 0 5px;
+    margin-bottom:25px;
+}
+#news_area h2 { position: relative; }
+#news_area span.blocktitle {
+    position: absolute;
+    left:240px;
+}
+#news_area span.rss {
+    position: absolute;
+    right: 10px;
+    top: 4px;
+}
+#news_area span.rss a {
+    display:block;
+    width:63px;
+    height:25px;
+    text-indent:-9999px;
+    background: url('../img/button/btn_rss.gif') 0 0 no-repeat;
+}
+#news_area span.rss a:hover { background-position:0 -25px;}
+
+#news_area span.newsyear {
+    position: absolute;
+    left: 170px;
+    top: 7px;
+    font-size: 16px;
+    color: #fff;
+}
+
+#news_area .news_contents {
+    max-height: 300px;
+    height: auto !important;
+    height: 300px;
+    overflow: auto;
+    overflow-y: scroll;
+}
+#news_area li.newslist {
+    width:630px;
+    padding:4px 5px 3px;
+    border-bottom:solid 1px #e7e7e7;
+}
+#news_area li.newslist:hover { background:#f7f7f7; }
+#news_area li.newslist:after {
+    display: block;
+    clear: both;
+    height: 0px;
+    line-height: 0px;
+    visibility: hidden;
+    content: ".";
+}
+#news_area li.newslist {
+    display: block; /* for IE8 */
+    vertical-align: middle;
+}
+#news_area li.newslist .status_icon,
+#news_area li.newslist .date,
+#news_area li.newslist .area {
+    float:left;
+    display: table;
+    text-align:center;
+    vertical-align: middle;
+    line-height:24px;
+}
+#news_area li.newslist .status_icon { width:80px; }
+#news_area li.newslist .status_icon img{vertical-align: middle;}
+#news_area li.newslist .date { width:90px; }
+#news_area li.newslist .area { width:100px; }
+#news_area li.newslist .txt {
+    display: table;
+    vertical-align: middle;
+    line-height:1.8em;
+}
+#news_area li.newslist .status_icon li {margin-bottom:3px;}
+
+/* ===============================================
+▼現在のカゴの中
+=============================================== */
+#cart_area .block_body {
+    background-color: #fffaf0;
+}
+#cart_area .information {
+    padding: 10px;
+}
+#cart_area .postage {
+    margin-top: 10px;
+    padding-top: 10px;
+    background: url("../img/background/line_dot_01.gif") repeat-x top;
+}
+#cart_area .postage .point_announce {
+    padding: 2px 0 2px 20px;
+    background: url("../img/icon/ico_price.gif") no-repeat left top;
+}
+#cart_area .btn {
+    padding: 10px 0;
+    background: url("../img/background/line_dot_01.gif") repeat-x top;
+    text-align: center;
+}
+
+
+/* ===============================================
+▼カテゴリ
+=============================================== */
+#category_area .block_body {
+    background-color: #fffaf0;
+}
+
+#category_area li {
+    padding-left: 5px;
+}
+#category_area li.level1 {
+    border-bottom: solid 1px #ccc;
+}
+#category_area li.level1 p {
+    padding-left: 20px;
+    margin: 7px 3px;
+}
+#category_area li.level1 p {
+    background: url("../img/icon/ico_arrow_01.gif") 2px 3px no-repeat;
+}
+#category_area li.level1 li p {
+    background: url("../img/icon/ico_level.gif") 7px 7px no-repeat;
+}
+#category_area li a {
+    display: block;
+    padding: 0;
+}
+a.onlink:link {
+    color: #f00;
+    text-decoration: underline;
+}
+a.onlink:visited {
+    color: #f00;
+}
+a.onlink:hover {
+    color: #f00;
+}
+
+
+/* ===============================================
+▼ガイドリンク
+=============================================== */
+#guide_area {
+    margin-top: 1em;
+    border: none;
+}
+#guide_area li {
+    margin-bottom: 5px;
+    letter-spacing: -0.05em;
+}
+ul.button_like li {
+    margin: 0;
+    padding: 0 0 1px 0;
+    background: url("../img/background/bg_btn_list.jpg") bottom repeat-x;
+}
+ul.button_like li a {
+    margin: 0;
+    padding: 10px 15px 10px 10px;
+    border: 1px solid;
+    border-bottom: none;
+    border-color: #ccc;
+    display: block;
+    background: url("../img/icon/ico_arrow_02.gif") no-repeat right;
+    text-decoration: none;
+    outline: none;
+}
+
+
+/* ===============================================
+▼ログイン（サイド用）
+※ヘッダー用はbloc_alpha.css内に記述
+=============================================== */
+#container div#login_area .block_body {
+    padding: auto 10px;
+    text-align: center;
+}
+
+#container div#login_area .block_body p {
+    margin-bottom: 5px;
+}
+
+#container div#login_area .block_body .btn {
+    text-align: center;
+}
+#container .login_area dl.formlist {
+    margin-bottom: 8px;
+}
+#container .login_area dl.formlist dt {
+    margin-bottom: 3px;
+    padding-left: 15px;
+    color: #333;
+    background: url("../img/icon/ico_arrow_03.gif") no-repeat left;
+    width: 90px;
+    float: left;
+    font-size: 90%;
+}
+#container .login_area dl.formlist dd {
+    margin-bottom: 5px;
+    float: right;
+    width: 300px;
+    vertical-align: bottom;
+    text-align: left;
+}
+#container div#login_area .block_body .mini {
+    margin-top: 5px;
+    letter-spacing: -0.01em;
+}
+
+
+    
+/* ===============================================
+▼カレンダー
+=============================================== */
+/*.main_column .block_calendar {
+    margin-bottom: 20px;
+        width: 190px;
+        float: right;
+}*/
+
+#calender_area {
+    background-color: transparent;
+    border: none;
+    margin-top: 1em;
+}
+#calender_area h3{
+    background-color: #ffc000;
+    line-height: 35px;
+    font-size: 1em;
+    padding: 0 10px;
+}
+#calender_area h3 img{
+    vertical-align: middle;
+}
+#calender_area .block_body {
+    padding: 10px 0;
+    background-color: white;
+}
+#calender_area table {
+    background: #fff;
+    border: none;
+    width: 220px;
+    margin: 0 auto 5px;
+}
+#calender_area table td {
+    padding: 0;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 0.8em;
+}
+#calender_area table td span.days{
+    text-align: left;
+    margin: 0;
+    padding: 1px;
+    color: black;
+    font: 11px tahoma;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    display:block;
+    width: 20px;
+}
+#calender_area table td p{
+    text-align: center;
+    margin-top: 4px;
+}
+#calender_area table th {
+    padding: 1px 3px;
+    background: #fff;
+    border: 1px solid #ccc;
+    text-align: center;
+    height: 25px;
+}
+#calender_area table .month {
+    margin-bottom: 5px;
+    padding-left: 12px;
+    background: url("../img/icon/ico_arrow_04.gif") no-repeat left;
+}
+#calender_area .today {
+    background-color: #FFF99D;
+    font-weight: bold;
+}
+#calender_area .information {
+    margin-left: 10px;
+    font-size: 90%;
+}
+
+
+/* ===============================================
+▼おすすめ商品
+=============================================== */
+/*
+   tplファイルのマークアップが同じ項目
+   メインカラム用 2カラム時 [two_maincolumn_left]
+                            [two_maincolumn_right]
+   メインカラム用 3カラム時 [three_maincolumn]
+   サイドカラム用           [side_column]
+   商品詳細のオススメ商品   [whobought_area]
+=============================================== */
+/* 共通
+----------------------------------------------- */
+#recommend_area .block_body,
+#whobought_area .product_item {
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #CCC;
+    width: 920px;
+    margin-bottom: 1em;
+}
+
+#recommend_area .block_body p,
+#whobought_area .product_item p {
+    margin: 0 0 5px 0;
+}
+
+#recommend_area .block_body img,
+#whobought_area .product_item img {
+    margin: 0 5px 0 0;
+}
+
+#recommend_area .block_body h3,
+#whobought_area .product_item h3 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+/* サイドカラム用 */
+.side_column #recommend_area .block_body {
+    padding: 10px;
+    background: #EAEAEA;
+}
+.side_column #recommend_area .product_item {
+    margin-bottom: 10px;
+    padding: 5px;
+    background: #FFF;
+    border: 1px solid #ccc;
+    border-radius: 6px; /* CSS3 */
+    -moz-border-radius: 6px; /* for Firefox */
+    -webkit-border-radius: 6px; /* for Safari and chrome */
+    behavior: url(border-radius.htc);//for IE
+}
+.side_column .banner_area li {
+    margin-bottom:10px;
+}
+.side_column .banner_area li.mb00 {margin-bottom:0px;}
+.side_column .mobile_banner {
+    margin-bottom:15px;
+}
+/* 画像
+----------------------------------------------- */
+/* メインカラム用 */
+.main_column #recommend_area .block_body .productImage,
+#whobought_area .product_item .productImage {
+    margin-bottom: 10px;
+    float: left;
+    width: 90px;
+}
+/* サイドカラム用 */
+.side_column #recommend_area .block_body .productImage {
+    float: left;
+    text-align: center;
+    width: 60px;
+}
+
+
+/* 左右の振り分け
+----------------------------------------------- */
+.main_column #recommend_area .product_item,
+#whobought_area .product_item {
+    float: left;
+    width: 50%;
+    padding-left: 0px;
+    padding-right: 0px;
+background:#00FFff;
+}
+
+
+/* 商品説明テキスト
+----------------------------------------------- */
+/* メインカラム用 1カラム時*/
+#one_maincolumn #recommend_area .block_body .productContents {
+    float: right;
+    width: 74%;
+}
+.side_column #recommend_area .block_body .productContents {
+    font-size: 90%;
+    font-family: meiryo;
+}
+.side_column #recommend_area .block_body .productContents .sale_price {
+    color: red;
+    font-size: 110%;
+}
+
+/* メインカラム用 2カラム時*/
+#two_maincolumn_right #recommend_area .block_body .productContents,
+#two_maincolumn_left #recommend_area .block_body .productContents,
+#two_maincolumn_right #whobought_area .productContents,
+#two_maincolumn_left #whobought_area .productContents {
+    float: right;
+    width: 70%; /* 元は74% */
+}
+
+/* メインカラム用 3カラム時*/
+#three_maincolumn #recommend_area .block_body .productContents,
+#three_maincolumn #whobought_area .productContents {
+    float: right;
+    width: 67%;
+}
+
+/* サイドカラム用 */
+.side_column #recommend_area .block_body .productContents {
+    float: right;
+    width: 65%;
+}
+.side_column #recommend_area .block_body .comment {
+    font-family: meiryo;
+    float: left;
+    display:inline-block;
+    width:100%;
+    white-space: nowrap;
+    overflow:hidden !important;
+    text-overflow: ellipsis;
+    line-height: 15px;
+    height: 32px;
+}
+
+.side_column #recommend_area .block_body .wrapper{
+    font-family: meiryo;
+    width: 100%;
+    height: 38px;
+    float: left;
+    margin-top: 6px;
+}
+.side_column #recommend_area .block_body ul.status_icon {
+    margin-bottom: 6px;
+}
+.side_column #recommend_area .block_body ul.status_icon li {
+    float: left;
+}
+
+/* ===============================================
+▼コーディネータに質問
+=============================================== */
+#coordinator_area,
+#coordinator_area h2, 
+#coordinator_area .block_body{
+    -webkit-border-radius: 3px;/* webkit */
+    -moz-border-radius: 3px;/* fx */
+    border-radius:3px;
+}
+#coordinator_area {
+    padding:6px;
+    background:#f39c47;	
+    box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+#coordinator_area .block_body {
+    padding: 8px 8px 1px 8px;
+    background-color: #FFF;
+}
+#coordinator_area h2 {
+    padding:8px 10px 14px;
+    background:#f39c47;
+}
+#coordinator_area .sub_block {
+    padding: 4px;
+    margin-bottom:10px;
+}
+#coordinator_area .sub_block .info {
+    display: table;
+    margin-bottom:1em;
+}
+#coordinator_area .sub_block .info .image {
+    width:105px;
+    height:120px;
+    margin-right:5px;
+}
+#coordinator_area .sub_block .name {
+    margin:1em 0;
+    font-size: 10pt;
+}
+#coordinator_area .sub_block .name,
+#coordinator_area .sub_block .info_title,
+#coordinator_area .sub_block .info_title_msg {
+    display:block;
+    font-weight: bold;
+}
+#coordinator_area .sub_block .message {
+    font-weight: normal;
+    font-size: 100%;
+}
+#coordinator_area .sub_block .right_info {
+    display: table-cell;
+    padding-left: 4px;
+    vertical-align: top;
+}
+#coordinator_area .sub_block .info_title_msg {
+    margin-bottom:0.5em;
+    padding:3px 5px;
+    background-color: #f7f3e4;
+}
+#coordinator_area .contact_link {
+    padding:5px 0;
+    border-top:solid 1px #e7e7e7;
+    font-size:10px;
+}
+#coordinator_area .contact_link a {
+    padding-left: 12px;
+    background: url(../img/icon/icon_arrow_01.gif) left center no-repeat; 
+}
+#coordinator_area .contact_link a:hover {
+    background: url(../img/icon/icon_arrow_01_on.gif) left center no-repeat; 
+}
+
+/* ===============================================
+▼HYPERION@JOBって何？
+=============================================== */
+
+div#about_hyperion-job .block_body {
+    margin: 0 auto 1em;
+    padding-bottom: 0;
+    width: 940px;
+    display: table;
+    font-family: "ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+div#about_hyperion-job .block_body div{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div#about_hyperion-job .block_body div.title{
+    width: 40%;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+}
+
+div#about_hyperion-job .block_body div.content{
+    width: 60%;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+/* ===============================================
+▼キープしたお仕事
+=============================================== */
+#keep_list_area{
+    border: 1px solid #57B3C0;
+    background-color: white;
+    margin-bottom: 1em;
+}
+#keep_list_area h3{
+    background-color: #57B3C0;
+    line-height: 27px;
+    padding: 5px;
+    color: white;
+}
+#keep_list_area h3 img{
+    vertical-align: top;
+    margin-right: 4px;
+}
+#keep_list_area .block_body{
+    padding: 0;
+}
+#keep_list_area .information {
+    padding: 10px;
+}
+#keep_list_area .btn {
+    padding: 10px 0;
+    background: url("../img/background/line_dot_01.gif") repeat-x top #f7f7e6;
+    text-align: center;
+}
+#keep_list_area .btn a{
+    display: block;
+    border-radius: 6px;
+    height: 2.5em;
+    color:#FFF;
+    background-color: #44abb9;
+    line-height: 2.5em;
+    width: 180px;
+    margin: 0 auto;
+}
+#keep_list_area .btn a:hover{
+    background-color: #53D2DD;
+    text-decoration: none;
+}

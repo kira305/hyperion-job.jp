@@ -1,0 +1,491 @@
+2018/07/10 16:59:22 [/admin/index.php] tphuong password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 16:59:40 [/admin/index.php] tphuong password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:00:42 [/admin/index.php] dummy password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:01:21 [/admin/index.php] tphuong password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:02:23 [/admin/index.php] hjobtest password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:02:35 [/admin/index.php] tphuong password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:04:08 [/admin/index.php] tphuong password incorrect. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfCheckError
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(132): LC_Page_Admin_Index->lfSetIncorrectData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(245): GC_Utils->gfPrintLog
+2018/07/10 17:05:00 [/admin/index.php] access error. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfDoLogin
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(179): LC_Page_Admin_Index->lfSetLoginSession
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(195): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(63): GC_Utils->gfPrintLog
+2018/07/10 17:05:00 [/admin/index.php] login: user=tphuong(19) auth=0 lastlogin=2018-06-13 12:32:15 sid= from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(84): LC_Page_Admin_Index->lfDoLogin
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(181): LC_Page_Admin_Index->lfSetLoginData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(227): GC_Utils->gfPrintLog
+2018/07/10 17:05:01 [/admin/home.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/home.php(24): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:05:13 [/admin/customer/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:05:15 [/admin/customer/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:05:19 [/admin/customer/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:10 [/admin/customer/edit.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/edit.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:16 [/admin/products/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:20 [/admin/products/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:32 [/admin/products/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:47 [/admin/prepayment/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/prepayment/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:49 [/admin/prepayment/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/prepayment/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:55 [/admin/prepayment/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/prepayment/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:06:59 [/admin/ownersstore/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/ownersstore/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:03 [/admin/ownersstore/module.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/ownersstore/module.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:05 [/admin/ownersstore/settings.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/ownersstore/settings.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:08 [/admin/ownersstore/log.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/ownersstore/log.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:11 [/admin/system/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/system/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:16 [/admin/system/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/system/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:07:20 [/admin/system/input.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/system/input.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:08:03 [/admin/system/input.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/system/input.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:08:03 [/admin/system/index.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/system/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:08:15 [/admin/logout.php] access : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = tphuong(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/logout.php(33): LC_Page_Admin_Logout_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Logout_Ex.php(56): LC_Page_Admin_Logout->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(54): LC_Page_Admin_Logout->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(64): LC_Page_Admin_Logout->lfDoLogout
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(76): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:08:15 [/admin/logout.php] logout : user=tphuong auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/logout.php(33): LC_Page_Admin_Logout_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Logout_Ex.php(56): LC_Page_Admin_Logout->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(54): LC_Page_Admin_Logout->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(64): LC_Page_Admin_Logout->lfDoLogout
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Logout.php(77): SC_Session->logout
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(124): GC_Utils->gfPrintLog
+2018/07/10 17:08:23 [/admin/index.php] access error. from 192.168.162.1
+login_id = ()[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(86): LC_Page_Admin_Index->lfDoLogin
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(176): LC_Page_Admin_Index->lfSetLoginSession
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(192): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(63): GC_Utils->gfPrintLog
+2018/07/10 17:08:23 [/admin/index.php] login: user=phuongtx(20) auth=0 lastlogin= sid= from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/index.php(33): LC_Page_Admin_Index_Ex->process
+/var/www/hyperion-job.co.jp/data/class_extends/page_extends/admin/LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(86): LC_Page_Admin_Index->lfDoLogin
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(178): LC_Page_Admin_Index->lfSetLoginData
+/var/www/hyperion-job.co.jp/data/class/pages/admin/LC_Page_Admin_Index.php(224): GC_Utils->gfPrintLog
+2018/07/10 17:08:23 [/admin/home.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/home.php(24): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:08:45 [/admin/contents/recommend.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/contents/recommend.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:10:39 [/admin/customer/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:10:42 [/admin/customer/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:10:53 [/admin/products/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:10:56 [/admin/products/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:11:02 [/admin/products/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:14:27 [/admin/products/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:14:30 [/admin/products/upload_csv.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/upload_csv.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:14:36 [/admin/products/class.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/class.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:14:40 [/admin/products/upload_csv_category.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/upload_csv_category.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:14:43 [/admin/products/product_rank.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/products/product_rank.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:15:01 [/admin/basis/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/basis/index.php(24): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:15:13 [/admin/home.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/home.php(24): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:16:36 [/admin/mail/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/mail/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:16:39 [/admin/mail/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/mail/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:16:48 [/admin/mail/template.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/mail/template.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:16:52 [/admin/mail/template_input.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/mail/template_input.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:16:59 [/admin/mail/history.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/mail/history.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:17:03 [/admin/total/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/total/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:17:06 [/admin/total/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/total/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:17:07 [/admin/total/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/total/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:17:13 [/admin/order/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/order/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:21:17 [/admin/job/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/job/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:21:22 [/admin/job/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/job/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:21:38 [/admin/job/pdf.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/job/pdf.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:24:16 [/admin/job/edit.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/job/edit.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:24:26 [/admin/customer/clientsearch.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/clientsearch.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:24:29 [/admin/customer/clientsearch.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/clientsearch.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:24:43 [/admin/customer/search.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/search.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:24:46 [/admin/customer/search.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/search.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:25:01 [/admin/customer/agency_search.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/agency_search.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:25:03 [/admin/customer/agency_search.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/customer/agency_search.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:25:18 [/admin/prepayment/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/prepayment/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
+2018/07/10 17:25:21 [/admin/prepayment/index.php] access : user=phuongtx auth=0 sid=7eo30ssfam1o9m57rl5p5ngd63 from 192.168.162.1
+login_id = phuongtx(0)[7eo30ssfam1o9m57rl5p5ngd63]
+/var/www/hyperion-job.co.jp/html/admin/prepayment/index.php(25): require_once
+/var/www/hyperion-job.co.jp/html/admin/require.php(32): require_once
+/var/www/hyperion-job.co.jp/data/require_base.php(51): SC_Helper_Session->adminAuthorization
+/var/www/hyperion-job.co.jp/data/class/helper/SC_Helper_Session.php(238): SC_Session->__construct
+/var/www/hyperion-job.co.jp/data/class/SC_Session.php(60): GC_Utils->gfPrintLog
